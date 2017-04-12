@@ -18,7 +18,7 @@ int CompareScore( const void *_elem1, const void *_elem2 )
     else 
         return 0;     
 } 
- 
+ /*
 int main( void ) 
 { 
     int DataSet[] = {6, 4, 2, 3, 1, 5}; 
@@ -35,6 +35,6 @@ int main( void )
     printf("\n"); 
  
     return 0; 
-}
+}*/
 //½ÇÇè½ÇÇè
 //¹º°¡ ´õ¾¹´Ï´Ù
